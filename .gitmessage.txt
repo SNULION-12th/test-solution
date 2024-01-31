@@ -1,10 +1,5 @@
 # Title: Summary, imperative, don't end with a period
-# No more than 50 chars. #### 50 chars is here: #
 
-# Remember blank line between title and body.
-
-# Body: Explain *what* and *why* (not *how*).
-# Wrap at 72 chars. ################################## which is here: #
 
 #   feat    : 기능 (새로운 기능)
 #   fix     : 버그 (버그 수정)
